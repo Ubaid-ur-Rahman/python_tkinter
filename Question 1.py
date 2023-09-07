@@ -5,8 +5,7 @@ from tkinter import *
 from tkinter import messagebox
 
 
-# Function for clearing the                        
-# contents of all text entry boxes                 
+# Function for clearing the contents of all text entry boxes                 
 def clearAll():
     # deleting the content from the entry box      
     nameField.delete(0, END)
